@@ -1,0 +1,15 @@
+body {
+    font-family: Arial, sans-serif;
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+h1, h2 {
+    text-align: center;
+}
+#quiz {
+    margin-top: 20px;
+}
+.question {
+    margin-bottom: 10px;
+}
